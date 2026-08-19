@@ -39,3 +39,7 @@ Selected theater is saved to `~/.config/now-playing/config.json`. Cache is store
 ## Data Source
 
 Movie data is scraped from [BigScreen.com](https://www.bigscreen.com). No API key required.
+
+## Limitations
+
+- Theater search is currently **US and Canada only**. The plugin accepts 5-digit ZIP codes, which limits it to U.S. ZIP codes. BigScreen.com also supports Canadian postal codes, but the input field is not set up for alphanumeric postal code formats. International postal codes (UK, EU, etc.) are not supported.
