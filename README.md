@@ -7,7 +7,7 @@ A Quickshell plugin that shows movies currently playing at your local theater, w
 ## Features
 
 - Bar pill showing movie count and theater name
-- Popup panel with poster thumbnails, ratings, runtime, and showtimes
+- Popup panel with poster thumbnails, MPAA ratings, runtime, and showtimes
 - Filter movies by title
 - Search theaters by ZIP code — saves your selection
 - Click a movie to open it on BigScreen.com
