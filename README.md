@@ -2,7 +2,7 @@
 
 ![preview](preview.png)
 
-A Quickshell plugin that shows movies currently playing at your local theater, with poster art, ratings, and showtimes. Click any movie to buy tickets on Fandango.
+A Quickshell plugin that shows movies currently playing at your local theater, with poster art, MPAA ratings, and showtimes. Click any movie to buy tickets on Fandango.
 
 ## Features
 
