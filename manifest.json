@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "com.user.now-playing",
+  "name": "Now Playing",
+  "version": "1.0.0",
+  "author": "Deoxizn",
+  "license": "MIT",
+  "description": "Shows movies currently playing at nearby theatres via BigScreen.com",
+  "icon": "video-x-generic",
+  "kinds": ["service", "bar-widget"],
+  "keepLoaded": true,
+  "entryPoints": {
+    "barWidget": "NowPlayingPanel.qml",
+    "service": "Service.qml"
+  },
+  "barWidget": {
+    "displayName": "Now Playing",
+    "category": "Media",
+    "defaultSection": "right",
+    "allowMultiple": false
+  }
+}
