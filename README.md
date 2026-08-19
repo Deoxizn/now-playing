@@ -33,7 +33,7 @@ Selected theater is saved to `~/.config/now-playing/config.json`. Cache is store
 
 ## Requirements
 
-- Omarchy Linux with Quattro+ (Shibumi bar)
+- Omarchy Linux with Quattro+ (Shibumi or default bar)
 - `curl` (for fetching showtime data)
 
 ## Data Source
